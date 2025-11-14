@@ -21,7 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ruddy7&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
+### Thanks for Visiting my GitHub Profile!
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Ruddy7&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
